@@ -1,1 +1,1 @@
-# AirBnB Clone-MySQL Project By Emmanuel Koranteng & Victor Agbai
+0x02. AirBnB clone - MySQL
